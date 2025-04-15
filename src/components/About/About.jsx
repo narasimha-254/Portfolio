@@ -1,8 +1,8 @@
 import React from 'react'
-import aboutImage from '/Users/NEW/Documents/Projects/myportfolio/assets/about/aboutImage.png'
-import cursorIcon from '/Users/NEW/Documents/Projects/myportfolio/assets/about/cursorIcon.png'
-import serverIcon from '/Users/NEW/Documents/Projects/myportfolio/assets/about/serverIcon.png'
-import uiIcon from '/Users/NEW/Documents/Projects/myportfolio/assets/about/uiIcon.png'
+import aboutImage from '/Users/NEW/Documents/Projects/myportfolio/public/assets/about/aboutImage.png'
+import cursorIcon from '/Users/NEW/Documents/Projects/myportfolio/public/assets/about/cursorIcon.png'
+import serverIcon from '/Users/NEW/Documents/Projects/myportfolio/public/assets/about/serverIcon.png'
+import uiIcon from '/Users/NEW/Documents/Projects/myportfolio/public/assets/about/uiIcon.png'
 
 import styles from './About.module.css'
 

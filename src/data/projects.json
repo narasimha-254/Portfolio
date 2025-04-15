@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Mart Online Electronic Store",
+    "imageSrc": "projects/E-mart.png",
+    "description": " it's responsive and user-friendly e-commerce platform for electronic products. Built with React, it allows users to browse, search, and purchase items seamlessly, offering a smooth and modern online shopping experience.",
+    "skills": ["React", "Javascript", "Bootstrap","CSS"," HTML"],
+    "demo": "https://eloctronics-shopping.netlify.app/",
+    "source": "https://github.com/narasimha-254/E-Mart"
+  },
+  {
+    "title": "Todo App - Task Managment Tool",
+    "imageSrc": "projects/Todo-Managment.png",
+    "description": "This is a simple and intuitive task management application built with React. It allows users to add, and delete, tasks as complete,it is speedly helping them stay organized and productive with a clean and responsive UI.",
+    "skills": ["React","Redux", "Js", "Bootstrap","CSS"," HTML"],
+    "demo": "https://todosmanagment.netlify.app",
+    "source": "https://www.github.com/narasimha-254/Todo-Managment"
+  },
+  {
+    "title": "Weather App - Real Time Weather Forecast",
+    "imageSrc": "projects/Weather.png",
+    "description": "This is A responsive weather application built with React that fetches real-time weather data using a public API. Users can search for any city to view current temperature, weather conditions, humidity, and wind speed with a clean and interactive interface.",
+    "skills": ["React", "Javascript","CSS ","HTML"],
+    "demo": "https://weatherranges.netlify.app",
+    "source": "https://github.com/narasimha-254/weather-app"
+  }
+]

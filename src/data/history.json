@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": " Kuncham Software Solutions Pvt Ltd",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Electronics Mart", "Reduced load times by 50%"],
+    "imageSrc": "history/kuncham.jpeg"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "GJ Solution Pvt Ltd",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Leads Managment", "Designed the Leads panel"],
+    "imageSrc": "history/gj.jpeg"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
